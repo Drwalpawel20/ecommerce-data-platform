@@ -1,0 +1,101 @@
+employee_id,first_name,last_name,department,hire_date
+1,William,Taylor,Management,2025-08-31
+2,Natasha,Johnson,Warehouse,2020-01-10
+3,Nancy,Gonzalez,Sales,2017-09-23
+4,John,Bryant,Management,2022-11-17
+5,Janet,Hill,Management,2024-08-23
+6,William,Reid,Warehouse,2018-11-08
+7,Erin,Allen,Sales,2025-01-23
+8,Brooke,Thompson,Sales,2024-10-26
+9,Brenda,Bailey,Management,2019-07-13
+10,Mary,Green,Customer Service,2018-04-14
+11,Justin,Hughes,Management,2019-07-09
+12,Melissa,Chan,Management,2020-05-23
+13,Mercedes,Holland,Management,2020-04-06
+14,Joseph,Ortiz,Management,2017-02-01
+15,Michelle,Coffey,Warehouse,2016-11-24
+16,Thomas,Anderson,Sales,2019-09-11
+17,Carolyn,Smith,Warehouse,2021-01-15
+18,Charlene,Hahn,Warehouse,2021-06-07
+19,Rodney,Bennett,Warehouse,2022-09-05
+20,Stephen,Robinson,Management,2021-11-20
+21,Erica,Holloway,Customer Service,2023-07-03
+22,Breanna,Smith,Sales,2023-02-11
+23,Anna,Wheeler,Customer Service,2021-07-22
+24,Kenneth,Rodriguez,Warehouse,2017-10-31
+25,Matthew,Hill,Warehouse,2022-04-12
+26,Michelle,Green,Customer Service,2021-10-30
+27,Jacob,Holmes,Customer Service,2020-11-01
+28,Rachel,Trujillo,Customer Service,2023-08-15
+29,Donna,Becker,Warehouse,2017-03-07
+30,Diana,Bright,Warehouse,2021-02-28
+31,Rebecca,Sullivan,Sales,2017-05-07
+32,Brandy,Cooley,Sales,2019-12-24
+33,Matthew,Reeves,Warehouse,2025-11-04
+34,Danielle,Alvarez,Customer Service,2022-11-05
+35,William,Bruce,Customer Service,2026-03-30
+36,Howard,Davis,Sales,2018-12-04
+37,Joyce,Hardy,Warehouse,2026-04-04
+38,Kathryn,White,Sales,2022-06-16
+39,Destiny,Walker,Sales,2020-07-18
+40,Julie,Parker,Management,2022-05-20
+41,Nathan,Richards,Management,2024-08-20
+42,Melissa,Ruiz,Management,2026-08-14
+43,Sheryl,Jones,Customer Service,2020-01-21
+44,Vincent,Dillon,Warehouse,2023-03-29
+45,Alyssa,Gutierrez,Warehouse,2019-04-24
+46,Derrick,Gonzalez,Warehouse,2023-09-16
+47,Vanessa,Orozco,Warehouse,2024-07-13
+48,Douglas,Huffman,Management,2019-10-25
+49,Kimberly,Freeman,Customer Service,2019-10-03
+50,Lawrence,Brown,Customer Service,2024-06-08
+51,Joshua,Juarez,Management,2019-08-13
+52,Barbara,Moore,Customer Service,2018-03-31
+53,David,Hamilton,Management,2024-01-20
+54,Richard,Sanford,Warehouse,2023-04-08
+55,Adam,Ferguson,Management,2023-02-04
+56,Stephanie,Mcclain,Warehouse,2025-10-12
+57,James,Rhodes,Warehouse,2020-12-24
+58,Jeremy,Wiley,Sales,2022-01-21
+59,David,Reyes,Management,2021-12-15
+60,Gary,Colon,Sales,2021-10-26
+61,Stacy,Bryant,Management,2025-08-06
+62,Caitlyn,Morgan,Management,2019-01-09
+63,Matthew,Valenzuela,Sales,2022-11-10
+64,Karen,Martin,Sales,2023-08-11
+65,Andrew,Walker,Management,2018-12-24
+66,Jason,Johnson,Customer Service,2025-05-01
+67,Gary,Richardson,Warehouse,2017-05-20
+68,Nicholas,Bowman,Sales,2025-11-04
+69,Cindy,Wheeler,Warehouse,2017-07-25
+70,Ebony,Valdez,Customer Service,2017-01-30
+71,Brandon,Wilson,Customer Service,2024-04-21
+72,Omar,Kelley,Customer Service,2024-10-25
+73,Jacqueline,Harris,Sales,2016-11-26
+74,Kevin,Stanley,Customer Service,2025-08-07
+75,Joseph,Obrien,Sales,2019-01-30
+76,Robert,Roach,Customer Service,2025-06-13
+77,Jennifer,Wilson,Warehouse,2018-09-08
+78,Kristen,Jimenez,Warehouse,2020-02-23
+79,Kimberly,Decker,Management,2020-03-06
+80,Michael,Ortiz,Warehouse,2019-06-23
+81,Benjamin,Crawford,Management,2020-04-12
+82,Haley,Castillo,Warehouse,2020-09-26
+83,Aaron,Powers,Sales,2018-08-17
+84,Mary,Caldwell,Warehouse,2019-04-14
+85,Stacy,Chan,Management,2018-01-09
+86,Jennifer,Garcia,Management,2021-02-06
+87,Dawn,Bryant,Customer Service,2021-10-13
+88,Joseph,Williams,Sales,2019-09-20
+89,Morgan,Phelps,Warehouse,2022-11-16
+90,Laurie,Edwards,Customer Service,2018-09-20
+91,Cody,Chang,Warehouse,2017-07-12
+92,Alec,Taylor,Warehouse,2019-08-25
+93,Mark,Kline,Customer Service,2021-04-24
+94,Natalie,Davis,Customer Service,2022-07-30
+95,Ian,Morales,Customer Service,2024-07-06
+96,Joseph,Cruz,Customer Service,2024-11-18
+97,Lauren,Banks,Customer Service,2019-08-02
+98,Daniel,Horton,Warehouse,2017-09-29
+99,Tina,Richard,Customer Service,2018-07-06
+100,Robert,Garza,Sales,2026-06-05
