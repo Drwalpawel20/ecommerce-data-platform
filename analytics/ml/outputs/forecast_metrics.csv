@@ -1,0 +1,6 @@
+metric,value
+MAE,20476.709436925066
+RMSE,26235.50261191754
+MAE_percentage,6.3825332652149385
+Test_Days,30.0
+Forecast_Days,365.0
